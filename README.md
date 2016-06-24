@@ -1,5 +1,5 @@
 #pysftpserver
-An OpenSSH SFTP wrapper written in Python.
+An OpenSSH SFTP wrapper written in Python.支持中文上传和下载
 
 ##Features
 * Possibility to [automatically jail users](#authorized_keys_magic) in a virtual chroot environment as soon as they login.
