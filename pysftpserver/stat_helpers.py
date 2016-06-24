@@ -53,6 +53,12 @@ def filemode(mode):
             perm.append("-")
     return ''.join(perm).encode()
 
+logfile = open("/home/hejiayi/stat_helper.log", 'a')
+def log(txt):
+    if not logfile:
+        return
+    logfile.write(txt + '\n')
+    logfile.flush()
 
 def stat_to_longname(st, filename):
     """
@@ -70,7 +76,7 @@ def stat_to_longname(st, filename):
         n_link = str('1')
 
     longname = [
-        filemode(st.st_mode).decode(),
+        filemode(st.st_mode),
         n_link,
         pwd.getpwuid(st.st_uid)[0],
         grp.getgrgid(st.st_gid)[0],
@@ -83,7 +89,7 @@ def stat_to_longname(st, filename):
         field + ' ' * (_paddings[i] - len(field))
         for i, field in enumerate(longname)
     ]
-    longname.append(filename.decode())  # append the filename
+    longname.append(filename)  # append the filename
 
     # and return the string
-    return ' '.join(longname).encode()
+    return ' '.join(longname)

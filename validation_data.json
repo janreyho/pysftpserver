@@ -1,0 +1,1035 @@
+{
+  "processedSegmentsCount" : 29,
+  "url" : "http:\/\/ums.cinzl.com\/live\/demo1\/tzwj_video.m3u8",
+  "hasDiscSequenceTag" : false,
+  "messages" : [
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    },
+    {
+      "errorParserCode" : -12268,
+      "errorComment" : "#EXT-X-ALLOW-CACHE has been deprecated",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-ALLOW-CACHE:NO"
+    }
+  ],
+  "integerDurations" : true,
+  "meanSegmentCount" : 3,
+  "measuredMeanBitrate" : 1773803,
+  "parsedSegmentsCount" : 29,
+  "validatorTimestamp" : "2016-06-20T11:24:27+08:00",
+  "hasEndTag" : false,
+  "validatorVersion" : "1.1(151117)",
+  "meanTotalDuration" : 31.83333333333333,
+  "measuredMaxBitrate" : 1953559,
+  "independentSegments" : false,
+  "playlistKind" : "media",
+  "sslContentDeliveredSecurely" : false,
+  "discontinuities" : [
+    {
+      "segments" : [
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2331,
+          "dataID" : 1,
+          "url" : "20160620\/11\/demo1_1466392729_video_seq_2331.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.1199, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2332,
+          "dataID" : 2,
+          "url" : "20160620\/11\/demo1_1466392739_video_seq_2332.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.8003, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2333,
+          "dataID" : 3,
+          "url" : "20160620\/11\/demo1_1466392749_video_seq_2333.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.6392, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 22.42268041237113,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2334,
+          "dataID" : 4,
+          "url" : "20160620\/11\/demo1_1466392761_video_seq_2334.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.8407, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2335,
+          "dataID" : 5,
+          "url" : "20160620\/11\/demo1_1466392772_video_seq_2335.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.1601, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2336,
+          "dataID" : 6,
+          "url" : "20160620\/11\/demo1_1466392782_video_seq_2336.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.1194, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2337,
+          "dataID" : 7,
+          "url" : "20160620\/11\/demo1_1466392793_video_seq_2337.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.1998, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2338,
+          "dataID" : 8,
+          "url" : "20160620\/11\/demo1_1466392803_video_seq_2338.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 12.0005, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 12,
+          "mediaSequence" : 2339,
+          "dataID" : 9,
+          "url" : "20160620\/11\/demo1_1466392816_video_seq_2339.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "The EXTINF duration of each Media Segment in the Playlist file, when rounded to the nearest integer, MUST be less than or equal to the target duration",
+              "errorDetail" : "Segment duration: 12.0000, Target duration: 12"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 12.7195, Playlist duration: 12.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2340,
+          "dataID" : 10,
+          "url" : "20160620\/11\/demo1_1466392828_video_seq_2340.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.3601, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2341,
+          "dataID" : 11,
+          "url" : "20160620\/11\/demo1_1466392839_video_seq_2341.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.8802, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2342,
+          "dataID" : 12,
+          "url" : "20160620\/11\/demo1_1466392849_video_seq_2342.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2343,
+          "dataID" : 13,
+          "url" : "20160620\/11\/demo1_1466392861_video_seq_2343.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.4400, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 12,
+          "mediaSequence" : 2344,
+          "dataID" : 14,
+          "url" : "20160620\/11\/demo1_1466392871_video_seq_2344.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "The EXTINF duration of each Media Segment in the Playlist file, when rounded to the nearest integer, MUST be less than or equal to the target duration",
+              "errorDetail" : "Segment duration: 12.0000, Target duration: 12"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 12.4005, Playlist duration: 12.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2345,
+          "dataID" : 15,
+          "url" : "20160620\/11\/demo1_1466392883_video_seq_2345.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.7598, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2346,
+          "dataID" : 16,
+          "url" : "20160620\/11\/demo1_1466392894_video_seq_2346.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.9997, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2347,
+          "dataID" : 17,
+          "url" : "20160620\/11\/demo1_1466392906_video_seq_2347.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.5605, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2348,
+          "dataID" : 18,
+          "url" : "20160620\/11\/demo1_1466392918_video_seq_2348.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.1601, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2349,
+          "dataID" : 19,
+          "url" : "20160620\/11\/demo1_1466392928_video_seq_2349.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.5201, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2350,
+          "dataID" : 20,
+          "url" : "20160620\/11\/demo1_1466392939_video_seq_2350.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.9997, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2351,
+          "dataID" : 21,
+          "url" : "20160620\/11\/demo1_1466392951_video_seq_2351.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2352,
+          "dataID" : 22,
+          "url" : "20160620\/11\/demo1_1466392962_video_seq_2352.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.4005, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2353,
+          "dataID" : 23,
+          "url" : "20160620\/11\/demo1_1466392973_video_seq_2353.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.4398, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2354,
+          "dataID" : 24,
+          "url" : "20160620\/11\/demo1_1466392983_video_seq_2354.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.9997, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 12,
+          "mediaSequence" : 2355,
+          "dataID" : 25,
+          "url" : "20160620\/11\/demo1_1466392995_video_seq_2355.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "The EXTINF duration of each Media Segment in the Playlist file, when rounded to the nearest integer, MUST be less than or equal to the target duration",
+              "errorDetail" : "Segment duration: 12.0000, Target duration: 12"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 12.9597, Playlist duration: 12.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 11,
+          "mediaSequence" : 2356,
+          "dataID" : 26,
+          "url" : "20160620\/11\/demo1_1466393008_video_seq_2356.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 11.5201, Playlist duration: 11.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2357,
+          "dataID" : 27,
+          "url" : "20160620\/11\/demo1_1466393020_video_seq_2357.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2358,
+          "dataID" : 28,
+          "url" : "20160620\/11\/demo1_1466393030_video_seq_2358.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 10.5196, Playlist duration: 10.0000"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 10,
+          "mediaSequence" : 2359,
+          "dataID" : 29,
+          "url" : "20160620\/11\/demo1_1466393040_video_seq_2359.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Interlaced video detected",
+              "errorDetail" : "Track ID 551"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : false,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 25,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        }
+      ],
+      "measurements" : {
+        "measuredMaxBitrate" : 1953559.272727273,
+        "measuredMeanBitrate" : 1773803.882736156
+      },
+      "tracks" : [
+        {
+          "trackMediaType" : "soun",
+          "trackAudioChannelCount" : 2,
+          "trackId" : 1,
+          "trackAudioSampleRate" : 44100,
+          "trackMediaSubType" : "aac ",
+          "trackAudioChannelLayout" : "Stereo (L R)"
+        },
+        {
+          "trackVideoIDRStandardDeviation" : 0.7924318672735261,
+          "trackId" : 2,
+          "trackVideoWidth" : 1280,
+          "trackVideoLevel" : 41,
+          "trackVideoHeight" : 720,
+          "trackMediaType" : "vide",
+          "trackVideoIDRInterval" : 2.439385072094996,
+          "trackVideoIsInterlaced" : true,
+          "trackVideoProfile" : 100,
+          "trackMediaSubType" : "avc1"
+        }
+      ]
+    }
+  ],
+  "dataVersion" : 1,
+  "playlistTargetDuration" : 10,
+  "gzipEncoded" : false,
+  "dataID" : 0
+}

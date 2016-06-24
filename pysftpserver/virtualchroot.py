@@ -13,7 +13,7 @@ class SFTPServerVirtualChroot(SFTPServerStorage):
 
     def verify(self, filename):
         """Check that filename is inside the chroot (self.home)."""
-        filename = filename.decode()
+        # filename = filename.decode()
         # verify if the absolute path is under the specified dir
         filename = os.path.realpath(filename)
         if not filename.startswith(self.home + '/') and filename != self.home:
